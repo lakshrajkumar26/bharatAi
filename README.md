@@ -17,13 +17,14 @@ A simple AI chatbot built with **React** that uses **Google's Gemini API** to ge
 
 ## 🖼 Demo
 
---
+-- Destructuring using Postman
 ![postman](https://github.com/user-attachments/assets/f1ef6f4e-2fac-4036-906c-672e5ba72e1b)
 
-![Screenshot](./public/screenshot.png)  
-*(You can add your actual screenshot here)*
+---Application 
+![Screenshot 2025-06-04 150125](https://github.com/user-attachments/assets/7558ea57-cb2b-47ee-a71d-ce34fe878110)
 
----
+![Screenshot 2025-06-04 141028](https://github.com/user-attachments/assets/15c52d07-a66b-4854-8f0a-1ce79004e556)
+
 
 ## 🚀 Technologies Used
 
