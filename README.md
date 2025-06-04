@@ -8,9 +8,9 @@ A simple AI chatbot built with **React** that uses **Google's Gemini API** to ge
 
 - Ask any question to the Gemini AI model
 - Chat-style UI with message history (User ↔️ AI)
+- Provide educational or general knowledge responses
+- Be extended into a customer support bot, virtual tutor, or productivity assistant
 - Typing effect (typewriter animation)
-- Auto-growing textarea input
-- Press `Enter` to send, `Shift+Enter` for newline
 - Responsive and clean design
 
 ---
