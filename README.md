@@ -49,6 +49,7 @@ npm start
 ## 🔑 API Key Setup & API Integration
 
 Go to Google AI Studio
+```https://aistudio.google.com/apikey
 Get your API Key
 
 We use **Axios** to send a POST request to the Gemini API endpoint:
