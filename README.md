@@ -1,6 +1,6 @@
 # Bharat AI - Gemini Chat UI
 
-A simple AI chatbot built with **React** that uses **Google's Gemini API** to generate intelligent responses. Styled to look and behave like **ChatGPT**, it supports a real-time chat interface with typewriter effects.
+A simple AI Interface built with **React** that uses **Google's Gemini API** to generate intelligent responses. Styled to look and behave like **ChatGPT**, it supports a real-time chat interface with typewriter effects.
 
 ---
 
